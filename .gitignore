@@ -1,6 +1,5 @@
 /node_modules/
 /compiled/
-/dist/
 /typings/
 package-lock.json
 /.idea/
